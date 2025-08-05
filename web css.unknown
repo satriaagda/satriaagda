@@ -1,0 +1,13 @@
+body {
+    background-color: lightblue; /* Latar belakang halaman jadi biru muda */
+}
+
+h1 {
+    color: navy;     /* Warna judul utama jadi biru tua */
+    text-align: center; /* Judul utama jadi di tengah */
+}
+
+p {
+    font-size: 16px;   /* Ukuran font paragraf jadi 16 piksel */
+    line-height: 1.5;  /* Jarak antar baris di paragraf */
+}
